@@ -5,40 +5,40 @@ _Last updated: 15.09.2024_
 
 ## Introduction
 
-At **HB ToDo**, your privacy is a priority, but to enhance functionality and security, we now collect certain data. This Privacy Policy outlines our practices and your options regarding the data we collect and process when you use our app.
+At **HB ToDo**, we prioritize your privacy while also ensuring the highest level of security and personalization in our app. This Privacy Policy provides detailed information about the data we collect, how we use it, and the measures we take to protect it.
 
-## Data Collection
+## Data Collection and Sharing
 
-**HB ToDo** collects the following information to improve security and personalize your experience:
+**HB ToDo** collects and shares specific data to enhance security and personalize your experience:
 
-- **Name or Nickname**: We collect a name or nickname that you provide. This is used to personalize your interactions with our app.
-- **Installed Apps Information**: To provide fraud prevention and enhance security, we collect information about the apps installed on your device.
-- **Device ID**: We collect your device ID to enhance security measures and prevent fraudulent activities.
+- **Name or Nickname**: We collect a name or nickname that you provide. This data is used to personalize your interactions within the app.
+- **Installed Apps Information**: To bolster fraud prevention and security, we collect information about the apps installed on your device. This data is shared with our security partners to ensure the integrity and safety of our operations.
+- **Device ID**: We collect your device ID to strengthen our security measures and prevent fraudulent activities. This data is also shared with our security partners for verification and safety purposes.
 
-This information is stored securely and is necessary to deliver our enhanced functionalities.
+The information we collect is essential for providing secure and customized services. All data is transmitted securely and stored on protected servers.
 
 ## Permissions
 
-To operate effectively and securely, **HB ToDo** requires the following permissions:
+To function effectively and ensure security, **HB ToDo** requires the following permissions:
 
 - **Local Storage**: To save your preferences and the data you enter, such as your name or nickname.
 - **Device Information**: To access and collect data regarding the apps installed on your device and your device ID.
 
 ## Use of Third-Party Services
 
-**HB ToDo** transmits collected data to our secure servers for processing:
+The data collected by **HB ToDo** is transmitted to and processed on our secure servers, and shared with trusted third-party security partners:
 
-- The data we collect is used to analyze and prevent potential fraud.
-- We ensure that our data processing adheres to strict security and privacy standards.
+- The data helps us and our partners analyze and prevent potential fraud.
+- We adhere to stringent security and privacy standards to ensure your data is handled responsibly.
 
 ## Security
 
-We implement robust security measures to protect the data you provide from unauthorized access, alteration, or destruction. Our security protocols are designed to secure your information on our servers.
+Robust security measures are in place to protect the data you provide from unauthorized access, alteration, or destruction. Our security protocols are designed to safeguard your information both on our servers and when shared with third parties.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy to reflect changes in our practices. When we make changes, they will be posted here, and the date of the last update will be revised. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting the data we collect.
+We may update this Privacy Policy periodically to reflect changes in our practices. Updates will be posted on this page, and the last revision date will be updated. We encourage you to review this Privacy Policy regularly to stay informed about how we are protecting the data we collect.
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [mirsalim9229@gmail.com](mailto:mirsalim9229@gmail.com).
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us at [mirsalim9229@gmail.com](mailto:mirsalim9229@gmail.com).
