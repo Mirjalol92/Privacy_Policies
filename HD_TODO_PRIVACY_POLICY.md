@@ -1,31 +1,44 @@
+
 # Privacy Policy for HB ToDo
 
-_Last updated: 07.08.2024_
+_Last updated: 15.09.2024_
 
 ## Introduction
 
-At **HB ToDo**, your privacy is a top priority. This Privacy Policy explains how we handle your data when you use our app.
+At **HB ToDo**, your privacy is a priority, but to enhance functionality and security, we now collect certain data. This Privacy Policy outlines our practices and your options regarding the data we collect and process when you use our app.
 
-## No Data Collection
+## Data Collection
 
-**HB ToDo** does not collect, store, or share any personal information. We do not use any analytics, tracking, or third-party services that could gather data about you or your device.
+**HB ToDo** collects the following information to improve security and personalize your experience:
+
+- **Name or Nickname**: We collect a name or nickname that you provide. This is used to personalize your interactions with our app.
+- **Installed Apps Information**: To provide fraud prevention and enhance security, we collect information about the apps installed on your device.
+- **Device ID**: We collect your device ID to enhance security measures and prevent fraudulent activities.
+
+This information is stored securely and is necessary to deliver our enhanced functionalities.
 
 ## Permissions
 
-**HB ToDo** does not require any special permissions to operate. The app functions entirely on your device, with no data being transmitted to external servers.
+To operate effectively and securely, **HB ToDo** requires the following permissions:
 
-## No Third-Party Services
+- **Local Storage**: To save your preferences and the data you enter, such as your name or nickname.
+- **Device Information**: To access and collect data regarding the apps installed on your device and your device ID.
 
-Our app does not integrate with any third-party services, such as social media platforms, advertising networks, or analytics providers. Your use of the app remains completely private and offline.
+## Use of Third-Party Services
+
+**HB ToDo** transmits collected data to our secure servers for processing:
+
+- The data we collect is used to analyze and prevent potential fraud.
+- We ensure that our data processing adheres to strict security and privacy standards.
 
 ## Security
 
-Since **HB ToDo** does not collect or store any data, there is no risk of data breaches or unauthorized access to your information. All data related to your to-do lists stays solely on your device.
+We implement robust security measures to protect the data you provide from unauthorized access, alteration, or destruction. Our security protocols are designed to secure your information on our servers.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy occasionally. If we do, the changes will be reflected on this page, and the date of the last revision will be updated. We encourage you to review this Privacy Policy periodically to stay informed.
+We may update this Privacy Policy to reflect changes in our practices. When we make changes, they will be posted here, and the date of the last update will be revised. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting the data we collect.
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at mirsalim9229@gmail.com.
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [mirsalim9229@gmail.com](mailto:mirsalim9229@gmail.com).
